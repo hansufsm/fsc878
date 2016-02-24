@@ -1,5 +1,7 @@
 # TOPICOS
 ----
+* [Link para os ipynb](http://nbviewer.ipython.org/github/zrhans/python/tree/master/topicos/)
+----
 ## Objetivo Prático
 * Ler um arquivo de dados
 * Gerar séries e dataframes com esses dados
